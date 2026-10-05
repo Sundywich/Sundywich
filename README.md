@@ -1,4 +1,5 @@
 # Sundywich
-Greetings, I'm Kaan Yildirim, a.k.a Sundywich. A Technical Game Designer from Istanbul. I have 3 years of hand-on experience in the game industry. You can check my portfolio website for further details:
+Greetings, I'm Kaan Yildirim, a.k.a Sundywich. A Technical Game Designer from Istanbul. I've been coding & developing games for 4+ years.
 
-https://sundywich.github.io/kaan-yildirim-portfolio
+For further details, you can check out my portfolio:
+-  https://sundywich.github.io/kaan-yildirim-portfolio
